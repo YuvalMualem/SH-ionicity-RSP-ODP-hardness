@@ -43,12 +43,3 @@ Each dataset includes the following fields:
 | `RSP` | Relative Structural Polarization |
 | `ionicity` | Bond ionicity (0–1) |
 | `hardness` | Vickers microhardness (GPa) |
-
----
-
-## 🧩 Reproducibility
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/<your-username>/self-healing-materials-bond-character.git
-cd self-healing-materials-bond-character
-pip install -r requirements.txt
