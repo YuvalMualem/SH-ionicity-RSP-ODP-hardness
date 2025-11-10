@@ -4,7 +4,9 @@ This repository contains the data, analysis code, and machine learning workflow 
 
 **"Possible Bond Character Effect on Self-Healing Properties of Materials for Sustainable Energy Conversion"**  
 Yuval Mualem, David Cahen, Yevgeny Rakita, Hannah-Noa Barad (2025)
-![Uploading ToC.png…]()
+
+<img width="1536" height="1024" alt="ToC" src="https://github.com/user-attachments/assets/0c27eada-159e-4193-b2e2-78071b24006c" />
+
 
 ---
 
