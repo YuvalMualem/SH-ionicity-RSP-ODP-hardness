@@ -10,13 +10,13 @@ Yuval Mualem, David Cahen, Yevgeny Rakita, Hannah-Noa Barad (2025)
 ## Overview
 The project explores how **bond-character descriptors** govern the **self-healing (SH)** behavior of materials relevant to energy generation and storage. The four bond parameters are:
 1. **Ionicity:** defined by Linus Pauling as a function of the difference in electronegativities.
-2. **RSP (relative structural polarization):** the ratio of the ionic and electronic components of the dielectric function.
-3. **ODP (optical deformation potential):** the change in band gap under applied strain.
+2. **RSP (Relative Structural Polarization):** the ratio of the ionic and electronic components of the dielectric function.
+3. **ODP (Optical Deformation Potential):** the change in band gap under applied strain.
 4. **Hardness:** the resistance to plastic deformation. 
 
-By combining **data mining**, **feature correlation**, and **machine learning classification (SVM, Gaussian Mixture Models)**, we identify two main SH mechanisms:
+By combining **data mining**, **feature correlation**, and **machine learning classification (SVM, Gaussian Mixture)**, we identify two main SH mechanisms:
 1. **Class I “static lattice”:** via kinetically stabilized defects
-2. **Class II: “dynamic lattice”:** via thermodynamically stabilized defects
+2. **Class II “dynamic lattice”:** via thermodynamically stabilized defects
 
 The workflow enables prediction of SH classes for new compounds based on their computed or measured properties.
 
