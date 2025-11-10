@@ -32,14 +32,3 @@ The workflow enables prediction of SH classes for new compounds based on their c
 
 4. **Prediction:**  
    Apply models to predict the SH class of new materials.
-
----
-
-## Data
-Each dataset includes the following fields:
-| Property | Unit |
-|-----------|-------------|
-| `ODP` | Optical Deformation Potential (eV) |
-| `RSP` | Relative Structural Polarization |
-| `ionicity` | Bond ionicity (0–1) |
-| `hardness` | Vickers microhardness (GPa) |
