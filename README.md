@@ -28,10 +28,16 @@ The workflow enables prediction of SH classes for new compounds based on their c
 ## Workflow
 1. **Data Analysis:**  
    The full dataset, found in table S1 (see `/Data/Supporting_Tables.xlsx`), is analyzed according to data type (computed / measured), materials groups and features.
+
    This is found in `Data Analysis.ipynb` (Figures 2, 3, 5 and Table 1 in main text).
 
-2. **Classification Machine Learning (ML) Models:**
+3. **Classification Machine Learning (ML) Models:**
+
    Two classification models were trained on RSP-ODP map to classify between class I and class II:
    - **Support Vector Machine (SVM):** supervised learning
    - **Gaussian Mixture:** unsupervised learning
+   
    Those models are used to classify new materials.
+   
+   This is found in `Classification ML Models.ipynb` (Figures 2, 3, 5 and Table 1 in main text).
+
