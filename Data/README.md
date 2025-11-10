@@ -1,4 +1,7 @@
-# Here the 8 supporting data tables are found
+# Data: Supporting Tables
+
+The tables S1-S8, which contain the data, are found in the excel file **Supporting_Tables.xlsx**.
+
 
 **Table S1:** The entire dataset
 
