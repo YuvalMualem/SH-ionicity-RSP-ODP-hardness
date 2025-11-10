@@ -39,5 +39,5 @@ The workflow enables prediction of SH classes for new compounds based on their c
    
    Those models are used to classify new materials.
    
-   This is found in `Classification ML Models.ipynb` (Figures 2, 3, 5 and Table 1 in main text).
+   This is found in `Classification ML Models.ipynb` (Figures 4, 6 in main text).
 
